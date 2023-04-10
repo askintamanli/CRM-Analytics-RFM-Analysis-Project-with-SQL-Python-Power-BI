@@ -1,6 +1,8 @@
 # RFM Analysis Project
 RFM analysis using Python - SQL and visualization with Power BI
 
+You can also view this project in my medium account: https://medium.com/@askintamanli/rfm-analysis-aa6028913215
+
 ## The Results
 
 ![2](https://user-images.githubusercontent.com/63555029/230893218-a28519e7-ba24-4ee4-bd76-0225611f1136.png)
